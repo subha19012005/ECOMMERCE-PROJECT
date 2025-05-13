@@ -20,13 +20,13 @@ This project includes:
 ## 📁 File Structure
 
 Nostra/
-├── index.html # Main landing page
-├── collection.html # Page displaying collections or products
-├── contact.html # Contact form or contact info page
-├── collection.js # JavaScript for collection.html
-├── contact.js # JavaScript for contact.html
-├── style.css # Common stylesheet for all pages
-├── README.md # Project description and usage
+index.html # Main landing page
+collection.html # Page displaying collections or products
+contact.html # Contact form or contact info page
+collection.js # JavaScript for collection.html
+contact.js # JavaScript for contact.html
+style.css # Common stylesheet for all pages
+README.md # Project description and usage
 
 ## 🌐 Pages Description
 
